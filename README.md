@@ -4,11 +4,11 @@
 <img align="right" alt="coding_developer_gif" width="400" src='https://raw.githubusercontent.com/yashwant-manchu/yashwant-manchu/main/developer.gif' />
 <p align="left"> <a href="https://twitter.com/yashwantmanchu" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantmanchu?logo=twitter&style=for-the-badge" alt="yashwantmanchu" /></a> </p>
 
-- 🔭 I’m currently working on **Parko plus**
+- 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **React & Flutter**
+- 🌱 I’m currently learning **React & DSA**
 
-- 💬 Ask me about **React, PHP**
+- 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **yashwanthmanchu059@gmail.com**
 
@@ -58,9 +58,6 @@
 
 <h4 align="left">Mobile Development:</h4>
 <p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
